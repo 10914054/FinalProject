@@ -14,7 +14,7 @@ struct AuthenticationView: View {
     
     var body: some View {
         VStack(spacing: 20) {
-            Text("朝陽科技大學 資訊管理系\n線上客服")
+            Text("ＣＹＵＴ ＩＭ\n線上客服")
                 .bold()
                 .font(.title)
                 .multilineTextAlignment(.center)
